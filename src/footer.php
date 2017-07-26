@@ -1,3 +1,5 @@
 <footer>
-    <p>Copyright 2016 &copy;</p>
+    <div class="container">
+        Copyright &copy; 2016 Your Name
+    </div>
 </footer>

@@ -1,7 +1,9 @@
-<nav class="navbar navbar-default">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <a class="navbar-brand" href="#">Hacking w/ PHP</a>
-        </div><!-- /.navbar-header-->
-    </div><!--/.container-fluid -->
-</nav>
+<section class="sidebar" id="sidebar">
+    <div id="connect">
+        <h2>Connect with Me</h2>
+
+        <a href="#"><img src="assets/images/github-128.png" class="social" alt="GitHub" /></a>
+        <a href="#"><img src="assets/images/linkedin-128.png" class="social" alt="LinkedIn" /></a>
+        <a href="#"><img src="assets/images/stackoverflow-128.png" class="social" alt="Stack Overflow" /></a>
+    </div>
+</section>
